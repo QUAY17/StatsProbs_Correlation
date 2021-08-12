@@ -1,4 +1,4 @@
-# StatsProbs_Correlation
+# stats_correlation
 
 Calculus based Probability and Statistics for Engineers and Scientists.
 In this lab, I explored the correlation as a measure of linear dependency between random variables.
